@@ -1,0 +1,57 @@
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500&family=Roboto+Condensed:ital@1&family=Single+Day&display=swap');
+body{margin: 0px;
+    padding: 0px;}
+
+.container{
+    
+    width: 300px;
+    height: 600px;
+    /* text-align: center; */
+    background-color:#f6fbff;
+}
+.logo{
+    margin-top: 15px;
+    margin-left: 15px;
+    height: 50px;
+
+}
+
+.c_name,.c_name_b{
+    text-align: center;
+    margin-top: 70px;
+    font-size:30px;
+   
+    font-family: "Poppins";
+    font-style: bold;
+    line-height: 30px;
+    /* border-top: 0.5px gainsboro solid ;
+    border-bottom: 0.5px gainsboro solid;
+    box-shadow: 0.10px ;
+     */
+}
+.l_name_d{color: #e9204f;font-family: "Poppins"; font-size:30px;}
+.c_name_b{border-top: 0.8px rgb(233, 230, 230) solid ;
+    border-bottom: 0.8px rgb(233, 230, 230) solid;
+    box-shadow: 0.10px ; padding: 10px 0px;}
+#scrapeEmails{
+    width: 180px;
+    height: 70px;
+    color: black;
+    background-color: #4dabf7;
+    font-size: 30PX;
+    padding :0px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 80px;
+    margin-left: 60px;
+    text-align: center; 
+    box-shadow: 5px 5px 5px 5px gainsboro;
+    
+}
+.footer{
+    margin-top: 150px;text-align: center;border-top: 0.5px gainsboro solid ;
+    border-bottom: 0.5px gainsboro solid;
+    box-shadow: 0.10px ;font-size:18px;
+    padding: 10px 0px;
+    
+}

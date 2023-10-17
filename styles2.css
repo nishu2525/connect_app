@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;500&family=Roboto+Condensed:ital@1&family=Single+Day&display=swap');
+body{margin: 0px;
+    padding: 0px;}
+
+.home_pg{
+    
+    width: 300px;
+    height: 600px;
+    /* text-align: center; */
+    background-color:#f6fbff;
+}
+#scrapeEmails{
+    width: 180px;
+    height: 40px;}
+    .logo{
+        height: 35px;
+    }
+    form{
+        margin-top: 50px;
+    }
+label{
+    font-size: large;
+    color: black;
+    margin-top: 15px;
+    margin-left: 35px;
+
+} 
+input{
+    width: 70px;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid gray;
+}
